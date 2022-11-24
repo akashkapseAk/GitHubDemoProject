@@ -1,14 +1,14 @@
-package Com.demo;
+ package Com.demo;
 
 public class Test1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		String hunary="yes";
+		String hungry="yes";
 		
 		
-		if(hunary=="yes")
+		if(hungry=="yes")
 		{
 			System.out.println("Eat somethings...");
 		}
